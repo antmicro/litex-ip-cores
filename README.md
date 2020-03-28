@@ -10,8 +10,8 @@ Pregenerated Verilog code and scripts used for generating it are provided in the
 
 To regenerate a PWM core follow the guide:
 
-#. Setup LiteX environment following the [LiteX README guide](https://github.com/enjoy-digital/litex/blob/master/README.md)
-#. Rebuild the core with:
+1. Setup LiteX environment following the [LiteX README guide](https://github.com/enjoy-digital/litex/blob/master/README.md)
+1. Rebuild the core with:
 
    ```
    cd litex-pwm/build-litex
